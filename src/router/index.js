@@ -4,6 +4,7 @@ import Hello from '@/components/Hello'
 import home from '@/ivews/home'
 import category from '@/ivews/category'
 import register from '@/ivews/register'
+import details from '@/ivews/details'
 import mobile from '@/ivews/mobile_home'
 
 Vue.use(Router)
@@ -28,6 +29,11 @@ export default new Router({
 			path: '/register',
 			name: 'register',
 			component: register
+		},
+		{
+			path: '/details',
+			name: 'details',
+			component: details
 		},
 		{
 			path: '/mobile',

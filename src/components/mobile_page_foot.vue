@@ -21,18 +21,17 @@
 				<Col span="12"></Col>
 			</Row>
 			<div style="width: 90%; margin: 0 auto 1em;">
-
 				<Row>
 					<Col span="3" style="margin-left: -0.5em;">
-					<img src="../assets/3.png" />
+						<img src="../assets/3.png" />
 					</Col>
 					<Col span="12" style="text-align: left;">
-					<h3>PHONE:</h3>
-					<p>(United States) 1-888-456-8468<br/> (PST) 9am - 5pm, Mon to Fri<br/> (Germany) 49-04101-8189266<br/> (CEST) 9am - 5pm, Mon to Fri</p>
+						<h3>PHONE:</h3>
+						<p>(United States) 1-888-456-8468<br/> (PST) 9am - 5pm, Mon to Fri<br/> (Germany) 49-04101-8189266<br/> (CEST) 9am - 5pm, Mon to Fri</p>
 					</Col>
 					<Col span="9" style="text-align: left;">
-					<h3>E-MAIL:</h3>
-					<p>support@taotronics.com<br/>marketing@taotronics.com</p>
+						<h3>E-MAIL:</h3>
+						<p>support@taotronics.com<br/>marketing@taotronics.com</p>
 					</Col>
 				</Row>
 			</div>
@@ -41,13 +40,13 @@
 		<Row class="foot-identify">
 			<Col span="12">Copyright © 2017 xxx Co. Limited</Col>
 			<Col span="12">
-			<font>Please select a language</font>
-			<Dropdown>
-				<a href="javascript:void(0)">
-					English
-					<Icon type="arrow-down-b"></Icon>
-				</a>
-			</Dropdown>
+				<font>Please select a language</font>
+				<Dropdown>
+					<a href="javascript:void(0)">
+						English
+						<Icon type="arrow-down-b"></Icon>
+					</a>
+				</Dropdown>
 			</Col>
 		</Row>
 
