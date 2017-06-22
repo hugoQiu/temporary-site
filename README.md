@@ -1,5 +1,7 @@
 # temporary-site
 
-npm install //环境依赖
+npm install -g vue-cli
 
-npm dev run //运行
+npm install 
+
+npm run dev 
